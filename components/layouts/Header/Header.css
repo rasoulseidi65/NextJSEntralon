@@ -1,0 +1,124 @@
+.TopheaderRight{
+    display: flex;
+    align-items: self-start;
+    align-content: flex-end;
+    float: right;
+    background-color: white!important;
+}
+.MuiAppBar-colorPrimary {
+    color: #fff!important;
+    background-color: #013870!important;
+    margin-bottom: 600px!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white!important;
+}
+.MuiToolbar-root {
+    margin-top: -15px!important;
+
+}
+
+
+
+
+h6{
+    font-size: 16px!important;
+}
+ul li.subMenu:hover{
+    color:  #4285F4!important;
+    font-family: Roboto, sans-serif;
+
+}
+.Login,.SignUp{
+    border-width: thin!important;
+    border-style: solid!important;
+    border-radius: 30px!important;
+    border-color: #ff4444!important;
+}
+.Login:hover{
+    background-color: #ff4444!important;
+}
+.SignUp:hover{
+    background-color: #ff4444!important;
+}
+.socilaNetwork{
+    cursor: pointer;
+}
+@media (max-width: 768px) {
+    .headerRight{
+        display: none!important;
+    }
+    .logo{
+        text-align: center!important;
+    }
+}
+.navbar {
+    box-shadow:none!important;
+}
+.MuiList-padding{
+    padding-top: 0!important;
+}
+.pink.darken-4 {
+    background-color: #b2dfdb !important;
+}
+.dropdown-menu {
+    background-color: #013885!important;
+
+}
+.menu-item img{
+    display: block;
+    margin: 0 auto 14px;
+    width: 48px;
+    transition: .2s ease-in-out;
+
+}
+.navbar .mega-dropdown .dropdown-menu.mega-menu .sub-menu ul li a:hover {
+    background-color: rgba(0, 0, 0, 0)!important;
+    color: #2fe0bf !important;
+    transition: .3s;
+
+}
+.dropdown-menu{
+    margin-left: 0!important;
+    left: 0!important;
+    width: 100rem!important;
+    height: 350px;
+    /* margin-left: -20px!important; */
+}
+.nav-item.dropdown:hover .dropdown-menu{
+    margin-top: 1px!important;
+    /* margin-left: -2px!important; */
+    display: block;
+}
+.navbar .mega-dropdown .dropdown-menu.mega-menu {
+
+    /*border-radius: 10px!important;*/
+    margin-left: -40px!important;
+}
+.menu-item{
+    color: white!important;
+}
+.row{
+    margin-left: -15px!important;
+}
+.text-white{
+    color: white!important;
+}
+.btn-rounded1{
+    -webkit-border-radius:10em!important;
+    border-radius:10em!important;
+    line-height: 1;
+    text-transform:none!important;
+}
+.btn-rounded1:hover{
+    background-color: #013885!important;
+    color: white!important;
+    border-color:#013885!important;
+
+}
+.nav-item{
+    color:white!important;
+    font-size:17px!important;
+}
+/**/
+

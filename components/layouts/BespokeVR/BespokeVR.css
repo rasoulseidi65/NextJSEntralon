@@ -1,0 +1,17 @@
+.btn-rounded{
+text-transform: none!important;
+    color: white;
+}
+.background-vr{
+    background-color: #013870!important;
+    
+}
+.text-VR{
+    line-height: 1.7;
+}
+.VR-gif{
+    height: 230px!important;
+    width: 100%!important;
+    float: right!important;
+    margin-right: -252px!important;
+}
